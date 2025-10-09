@@ -30,6 +30,8 @@ const ICAL_URLS = [
   'https://www.meetup.com/Edmonton-NET-User-Group/events/ical/', // .NET user group
   'https://www.meetup.com/flutter-edmonton/events/ical/', // flutter edmonton
   'https://www.meetup.com/edmonton-wordpress-meetup-group/events/ical/', // wordpress meetup
+  'https://api2.luma.com/ics/get?entity=calendar&id=cal-0bDgxCEdnFr1W8O', // data science meetup.
+  'https://api2.luma.com/ics/get?entity=calendar&id=cal-DX3cBt59kMNr4tI',
 ]
 
 // gets the ICAL from the urls above.
